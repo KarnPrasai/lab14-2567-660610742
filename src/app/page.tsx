@@ -1,7 +1,6 @@
 "use client";
 import { Pagination , Group, Divider , Button, Textarea , Rating , Space, Container, Text, Title } from "@mantine/core";
-import Footer from "@components/Footer";
-import { useState } from "react";
+
 
 export default function Home() {
   return (
